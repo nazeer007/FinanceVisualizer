@@ -19,7 +19,7 @@ export function Toaster() {
               )}
             </div>
             {action}
-            <Toast.Close />
+            <Toast/>
           </Toast>
         )
       })}
